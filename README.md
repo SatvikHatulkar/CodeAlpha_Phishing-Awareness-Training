@@ -20,5 +20,4 @@ This training module includes:
 - Anyone interested in understanding real-world phishing tactics and defenses.
 
 ## Download the Training
-
 **[Click here to start Phishing Awareness Training course](https://share.minicoursegenerator.com/phishing-awareness-training-63886374)**

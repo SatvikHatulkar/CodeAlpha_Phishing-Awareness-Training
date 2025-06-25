@@ -19,5 +19,5 @@ This training module includes:
 - IT teams conducting regular security awareness training.
 - Anyone interested in understanding real-world phishing tactics and defenses.
 
-## Download the Training
-**[Click here to start Phishing Awareness Training course](https://share.minicoursegenerator.com/phishing-awareness-training-63886374)**
+## Course URL
+**[Click here (Phishing Awareness Training course)](https://share.minicoursegenerator.com/phishing-awareness-training-63886374)**
